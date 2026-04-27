@@ -141,16 +141,6 @@ GenAI Project/
 
 ---
 
-## 👥 Team
-
-| Name | Program |
-|---|---|
-| **Ayush Shrivastava** | CSIT 595 — Generative AI Applications, Montclair State University |
-| **Vishwa Patel** | CSIT 595 — Generative AI Applications, Montclair State University |
-| **Senoussi Abdoulkarim** | CSIT 595 — Generative AI Applications, Montclair State University |
-
----
-
 ## 📝 License
 
-This project was developed for academic purposes as part of the CSIT 595 course at Montclair State University. Not intended for commercial use.
+This project was developed for academic purposes as part of the course. Not intended for commercial use.
